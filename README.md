@@ -28,6 +28,9 @@ For more information about the data see:
 1. [ERA5-Reanalysis Land](https://cds.climate.copernicus.eu/cdsapp#!/dataset/reanalysis-era5-land?tab=overview)
 2. [CAMS Analysis](https://ads.atmosphere.copernicus.eu/cdsapp#!/dataset/cams-europe-air-quality-forecasts?tab=form)
 
+### Analyzed Data
+Contains the analyzed data from the two python notebooks
+
 ### Raw-data folder
 Contains semi-raw data files from ERA5 and CAMS (used in the ERA5-Reanalysis.ipynb and CAMS-Analysis.ipynb respectively)
 
