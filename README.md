@@ -6,7 +6,7 @@ This project contains information on how to acquire and analyze data from 3 diff
 
 Greek mainland is our area of interest and we collect data regarding this specific region.  
 ## Folder Description
-### Code folderCode folder
+### Code folder
 #### Sentinel5  
 Contains code regarding sentinel5p data acquisition. It contains an .ipynb used for data accumulation. This specific notebook uses [s5p-tools](https://github.com/bilelomrani1/s5p-tools) and geojson files which are provided in aux-files/geojson folder
 
